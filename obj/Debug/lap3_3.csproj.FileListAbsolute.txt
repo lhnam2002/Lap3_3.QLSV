@@ -1,0 +1,11 @@
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\lap3_3\bin\Debug\lap3_3.exe.config
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\lap3_3\bin\Debug\lap3_3.exe
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\lap3_3\bin\Debug\lap3_3.pdb
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\lap3_3\obj\Debug\lap3_3.csproj.AssemblyReference.cache
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\lap3_3\obj\Debug\lap3_3.frmQLSV.resources
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\lap3_3\obj\Debug\lap3_3.frmThem.resources
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\lap3_3\obj\Debug\lap3_3.Properties.Resources.resources
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\lap3_3\obj\Debug\lap3_3.csproj.GenerateResource.cache
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\lap3_3\obj\Debug\lap3_3.csproj.CoreCompileInputs.cache
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\lap3_3\obj\Debug\lap3_3.exe
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\lap3_3\obj\Debug\lap3_3.pdb
